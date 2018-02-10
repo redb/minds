@@ -1380,4 +1380,4 @@ You cannot reply to this email.",
 	"zu" => "Zulu",
 );
 
-add_translation("en",$english);
+add_translation("fr",$french);
