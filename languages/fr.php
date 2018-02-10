@@ -17,15 +17,15 @@ $french = array(
  * Sessions
  */
 
-	'login' => "Log in",
-	'loginok' => "You have been logged in.",
-	'loginerror' => "We couldn't log you in. Please check your credentials and try again.",
-	'login:empty' => "Username and password are required.",
-	'login:baduser' => "Unable to load your user account.",
-	'auth:nopams' => "Internal error. No user authentication method installed.",
+	'login' => "S'identifier",
+	'loginok' => "Vous vous êtes identifié",
+	'loginerror' => "Nous ne pouvons vous identifier, merci de verifier vos informations de connection",
+	'login:empty' => "le nom d'utilisateur et le mot de passe sont requis",
+	'login:baduser' => "Impossible de se connecter à ce compte.",
+	'auth:nopams' => "Erreur interne. Aucune méthode d'authentification installée",
 
-	'logout' => "Log out",
-	'logoutok' => "You have been logged out.",
+	'logout' => "Se déconnecter",
+	'logoutok' => "Vous avez été deconnecté ",
 	'logouterror' => "We couldn't log you out. Please try again.",
 
 	'loggedinrequired' => "You must be logged in to view that page.",
