@@ -17,8 +17,8 @@ $english = array(
  * Sessions
  */
 
-	'login' => "Log in",
-	'loginok' => "You have been logged in.",
+	'login' => "S’identifier",
+	'loginok' => "Vous etes connecté",
 	'loginerror' => "We couldn't log you in. Please check your credentials and try again.",
 	'login:empty' => "Username and password are required.",
 	'login:baduser' => "Unable to load your user account.",
